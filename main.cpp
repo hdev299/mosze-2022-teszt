@@ -31,4 +31,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "Mi az, zöld és nehéz kiszarni? Tank." << std::endl;
+    return 0; 
 }
